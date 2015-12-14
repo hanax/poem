@@ -2,7 +2,7 @@ $(function() {
     var TOTAL = 10;
     var PATH = "assets/";
     var HOVER_SOUND = "hover-sound";
-    var AFTER_SOUND = "after-sound";
+    var AFTER_SOUND = "after_sound";
     var SUFFIX = ".mp3";
 
     var TEXT_MAP = [
